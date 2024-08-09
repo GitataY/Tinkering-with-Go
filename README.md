@@ -14,3 +14,6 @@
 ### Why Pointers
 - Avoid unnecessary value copies
 - Directly Mutate Values
+
+### Structs
+- Grouping data & functions into collections

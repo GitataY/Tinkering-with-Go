@@ -1,1 +1,1 @@
-module example.com/bank
+module example.com/pointers
