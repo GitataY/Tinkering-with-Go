@@ -8,4 +8,5 @@
 - Functions 
 - Conditions 
 - Working with files 
-- Error Handling 
+- Error Handling
+- workig with packages
