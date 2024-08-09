@@ -8,5 +8,9 @@
 - Functions 
 - Conditions 
 - Working with files 
-- Error Handling
-- workig with packages
+- Error Handling 
+- Pointers - These are variables that store value addresses instead of values.
+
+### Why Pointers
+- Avoid unnecessary value copies
+- Directly Mutate Values
